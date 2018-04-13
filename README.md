@@ -31,4 +31,4 @@ Exmaple2:
 
 youpl.sh Bash-Scripting https://www.youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY Shell-Scripting
 
-Running the above command will create a directory named Bash-Scripting in the already existing directory named Shell-Scripting , and download the entire playlist pointed by the URL https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_ inside it.
+Running the above command will create a directory named Bash-Scripting in the already existing directory named Shell-Scripting , and download the entire playlist pointed by the URL https://www.youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY inside it.

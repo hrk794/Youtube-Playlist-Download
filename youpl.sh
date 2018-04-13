@@ -5,7 +5,7 @@ playlist_list_url=$2
 existin_dir=$3
 
 
-def_dir=/media/hrk/Big/
+def_dir=/path/to/your/default/directory/
 
 #Change the working directory to the default folder
 cd $def_dir

@@ -23,12 +23,12 @@ The third is an optional argument, which specifies the name of an existing direc
 
 Example1:
 
-youpl.sh Shell-Scripting https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
+~/youpl.sh Shell-Scripting https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
 
 Running the above command will create a directory named Shell-Scripting, and download the entire playlist pointed by the URL https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_ inside it.
 
 Exmaple2:
 
-youpl.sh Bash-Scripting https://www.youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY Shell-Scripting
+~/youpl.sh Bash-Scripting https://www.youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY Shell-Scripting
 
 Running the above command will create a directory named Bash-Scripting in the already existing directory named Shell-Scripting , and download the entire playlist pointed by the URL https://www.youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY inside it.
